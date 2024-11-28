@@ -1,0 +1,19 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "DOUAA EL FAHIMI",
+      "salary": 9000
+    },
+    {
+      "id": 2,
+      "name": "AYA EL FAHIMI",
+      "salary": 22000
+    },
+    {
+      "id": 3,
+      "name": "MARWA EL FAHIMI",
+      "salary": 23000
+    }
+  ]
+}

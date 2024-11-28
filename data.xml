@@ -1,0 +1,17 @@
+<root>
+<employee>
+  <id>1</id>
+  <name>DOUAA EL FAHIMI</name>
+  <salary>9000</salary>
+</employee>
+<employee>
+  <id>2</id>
+  <name>AYA EL FAHIMI</name>
+  <salary>22000</salary>
+</employee>
+<employee>
+  <id>3</id>
+  <name>MARWA EL FAHIMI</name>
+  <salary>23000</salary>
+</employee>
+</root>
